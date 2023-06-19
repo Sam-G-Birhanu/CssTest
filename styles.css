@@ -1,0 +1,90 @@
+html{
+    margin:0;
+    padding: 0; 
+    width: 100vw;
+height: 100vh;  
+}
+body{
+    background-color:  gold;
+/* border-bottom:solid 2vh pink; */
+margin:0;
+padding: 0;
+width: 100vw;
+height: 100vh;
+}
+
+#circle {
+    background: goldenrod;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    margin-bottom: 40px;
+    text-align: center;
+    /* margin-top: 5%;
+    margin-bottom: 10%; */
+}
+.tilte{
+    text-align: center;
+    color: white;
+}
+h1{
+    padding-top: 26px;
+    
+}
+#rec1{
+    background-color: gold;
+    border: solid 2px transparent;
+    width: 100vw;
+    height: 45vh;
+    padding-top: 10%;
+}
+#rec2{
+    padding: 0px;
+    margin:0%;
+    width: 100vw;
+    height: 35vh;
+    display: flex;
+    background-color: rgb(238, 69, 97);
+    position: relative;
+bottom: -50px;
+}
+
+#rec21{
+    width: 30vw;
+    height: 100%;
+    background-color: rgb(238, 69, 97);
+
+}
+#rec22{
+    background-color: rgb(238, 69, 97);
+    /* border: solid 2px black; */
+    border-right: solid 20vw rgb(238, 69, 97);
+    border-bottom: solid 50% rgb(238, 69, 97);
+    border-left: solid 20vw rgb(238, 69, 97);
+    border-top: solid 20vh gold;
+
+
+    width: 0vw;
+    height: 0vh;
+    /* float: left; */
+    margin:0%;
+    padding: 0px;
+} 
+#rec23{
+    width: 30vw;
+    height: 100%;
+    background-color: rgb(238, 69, 97);
+} 
+/* #rec22{
+    background-color: pink;
+    border: solid 50px red;
+    width: 0vw;
+    height: 0vh;
+    border-left: 2px;
+    float: right;
+    margin:0%;
+    padding: 0;
+    position: relative;
+    top:0
+}  */
